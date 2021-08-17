@@ -1,0 +1,156 @@
+/* 1st part */
+.logo {
+    display: inline-block;
+    margin-right: 92px;
+    font-size: 13px;
+    color: #FA6980;
+}
+
+.body {
+    background-color: #F6F8F9;
+}
+
+.navigation {
+    display: inline-block;
+}
+
+.nav-li {
+    display: inline-block;
+    margin-right: 27px;
+    color: #343638;
+    font-size: 11px;
+    vertical-align: middle;
+}
+
+.header-wrapper {
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* width: 100%; */
+    /* background-color: #F6F8F9; */
+}
+
+.container {
+    width: 1168px;
+    margin: 0  auto;
+    margin-top: 75px;
+}
+
+.text-block {
+    display: inline-block;
+    width: 280px;
+    margin-top: 66px;
+    color: #A6ADB4;
+    margin-left: 40px;
+}
+
+.left-block {
+    display: inline-block;
+    background-color: #FFFFFF;
+    width: 360px;
+    height: 350px;
+    margin-right: 40px;
+    vertical-align: top;
+}
+
+.left-text {
+    
+}
+.middle-block {
+    display: inline-block;
+    background-color: #FFFFFF;
+    width: 360px;
+    height: 350px;
+    margin-right: 40px;
+    vertical-align: top;
+}
+
+.right-block {
+    display: inline-block;
+    background-color: #FFFFFF;
+    width: 360px;
+    height: 350px;
+    vertical-align: top;
+}
+
+.header1 {
+    margin-bottom: 40px;
+    font-size: 24px;
+}
+
+.clock {
+    margin-left: 40px;
+    margin-top: 10px;
+    vertical-align: bottom;
+    /* rogor gavuscoro saatis logo dros? */
+}
+
+.time {
+    color: #A6ADB4;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
+/* 2nd part */
+
+.container2 {
+    width: 1168px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left-block1 {
+    display: inline-block;
+    width: 760px;
+    vertical-align: top;
+    
+}
+
+.right-block1 {
+    display: inline-block;
+    width: 360px;
+    vertical-align: top;
+}
+
+.img {
+    margin-bottom: 40px;
+}
+
+.right-img {
+    margin: 0 0 102px 40px;
+}
+
+.footer-wrapper {
+    background-color: #A6ADB4;
+    padding: 56px 139px 60px 142px;
+    margin-top: 37px;
+}
+
+.logo2 {
+    display: inline-block;
+    margin-right: 89px;
+    font-size: 13px;
+    color: #FFFFFF;
+    vertical-align: top;
+}
+
+.nav-li2 {
+    display: inline-block;
+    font-size: 13px;
+    color: #CBD0D3;
+    vertical-align: top;
+}
+
+.footer-nav {
+    margin: 0px 80px 8px 0px;
+}
+
+.footer-text {
+    margin-right: 165px;
+}
+
+.footer-img {
+    margin-right: 32px;
+}
